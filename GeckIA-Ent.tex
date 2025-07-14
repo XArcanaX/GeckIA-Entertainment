@@ -1,0 +1,48 @@
+\documentclass[a4paper,10pt, colorlinks=true, linkcolor=black, urlcolor=blue, citecolor=blue, hidelinks]{article}
+\usepackage{xcolor}
+\usepackage[a-1b]{pdfx}
+\usepackage{comment}
+
+% Décommentez et adaptez si vous souhaitez une police spécifique
+%\setmainfont{MiloTE}[
+%  Path = ./Resources/Font/,
+%  Extension = .ttf,
+%  BoldFont = MiloTE-Bold,
+%  ItalicFont = MiloTE-Ita,
+%]
+
+\usepackage{graphicx}
+\usepackage{geometry}
+\usepackage{csquotes}
+\geometry{a4paper,inner=4cm,outer=3cm,top=3cm,bottom=2.5cm}
+\usepackage{float}
+\usepackage{caption}
+\usepackage{setspace}
+\setstretch{1.5}
+\setlength{\parindent}{20pt}
+\usepackage[backend=biber, style=numeric, sorting=none]{biblatex}
+%\addbibresource{bibliography.bib}
+\usepackage{enumitem}
+\usepackage{fontspec}
+\setmainfont{SpecialElite-Regular}[
+  Path = Resources/Font/,
+  Extension = .ttf
+]
+\usepackage[french]{babel} % Language
+\begin{document}
+\pagenumbering{arabic}
+
+\input{Tesi/Frontespizio}
+\tableofcontents
+\newpage
+
+\input{Tesi/Lagon-Plaza.tex}
+\include{Tesi/Animatroniques}
+\input{Tesi/Comportement.tex}
+\input{Tesi/Roles.tex}
+\input{Tesi/Conclusioni.tex}
+
+% Décommentez pour la bibliographie :
+% \printbibliography[heading=bibintoc, title={Bibliography}]
+\end{document}
+
