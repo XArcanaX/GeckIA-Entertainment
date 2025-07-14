@@ -1,0 +1,19 @@
+\babel@toc {french}{}\relax 
+\contentsline {section}{\numberline {1}Lagon Plaza}{2}{section.1}%
+\contentsline {subsection}{\numberline {1.1}Présentation générale}{2}{subsection.1.1}%
+\contentsline {subsection}{\numberline {1.2}Mascottes animatroniques}{2}{subsection.1.2}%
+\contentsline {subsection}{\numberline {1.3}Évolution et réputation}{2}{subsection.1.3}%
+\contentsline {subsection}{\numberline {1.4}Un lieu entre modernité et mystère}{3}{subsection.1.4}%
+\contentsline {section}{\numberline {2}Animatroniques}{4}{section.2}%
+\contentsline {subsection}{\numberline {2.1}Animatronique 1.0}{4}{subsection.2.1}%
+\contentsline {subsection}{\numberline {2.2}Animatronique 1.1}{4}{subsection.2.2}%
+\contentsline {subsection}{\numberline {2.3}Animatronique 1.2}{5}{subsection.2.3}%
+\contentsline {section}{\numberline {3}Comportement}{7}{section.3}%
+\contentsline {subsection}{\numberline {3.1}Animatronique 1.0}{7}{subsection.3.1}%
+\contentsline {subsection}{\numberline {3.2}Animatronique 1.1}{7}{subsection.3.2}%
+\contentsline {subsection}{\numberline {3.3}Animatronique 1.2}{8}{subsection.3.3}%
+\contentsline {section}{\numberline {4}Rôles}{9}{section.4}%
+\contentsline {subsection}{\numberline {4.1}Animatronique 1.0}{9}{subsection.4.1}%
+\contentsline {subsection}{\numberline {4.2}Animatronique 1.1}{9}{subsection.4.2}%
+\contentsline {subsection}{\numberline {4.3}Animatronique 1.2}{10}{subsection.4.3}%
+\contentsline {section}{\numberline {5}placeholder}{10}{section.5}%
